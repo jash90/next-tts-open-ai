@@ -179,7 +179,7 @@ export default function TTSPage() {
         <CardHeader>
           <CardTitle className="text-2xl font-bold text-center">Text-to-Speech Converter</CardTitle>
           <p className="text-center text-muted-foreground">
-            Convert your text into natural-sounding speech using OpenAI's advanced TTS technology
+            {"Convert your text into natural-sounding speech using OpenAI's advanced TTS technology"}
           </p>
         </CardHeader>
         <CardContent className="space-y-4">
